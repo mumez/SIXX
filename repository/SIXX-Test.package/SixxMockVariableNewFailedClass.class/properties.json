@@ -2,6 +2,7 @@
 	"category" : "SIXX-Test",
 	"classinstvars" : [
 		 ],
+	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
@@ -13,4 +14,5 @@
 	"pools" : [
 		 ],
 	"super" : "Array",
+	"traitcomposition" : "{}",
 	"type" : "variable" }

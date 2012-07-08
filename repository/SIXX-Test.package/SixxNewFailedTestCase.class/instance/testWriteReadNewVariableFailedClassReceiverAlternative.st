@@ -1,5 +1,5 @@
 tests
-testWriteReadNewVariableFailedClassReciverAlternative
+testWriteReadNewVariableFailedClassReceiverAlternative
 	| original sixxString read |
 	original := SixxMockVariableNewFailedClass prototype1.
 	self should: [original att1 = 1].
