@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mu 12/17/2006 22:38",
+	"instvars" : [
+		 ],
+	"name" : "SixxCustomObjectSerializationTestCase",
+	"pools" : [
+		 ],
+	"super" : "SixxAbstractTestCase",
+	"type" : "normal" }

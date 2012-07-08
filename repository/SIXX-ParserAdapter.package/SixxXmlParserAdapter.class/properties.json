@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-ParserAdapter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SixxXmlParserAdapter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

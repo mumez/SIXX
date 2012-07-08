@@ -1,0 +1,4 @@
+accessing
+sixxReadValue
+	
+	^self shapeChangedObject

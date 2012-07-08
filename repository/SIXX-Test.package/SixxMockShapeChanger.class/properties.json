@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SixxMockShapeChanger",
+	"pools" : [
+		 ],
+	"super" : "SixxShapeChanger",
+	"type" : "normal" }

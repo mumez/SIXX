@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SixxError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

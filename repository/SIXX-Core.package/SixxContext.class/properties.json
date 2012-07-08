@@ -1,0 +1,17 @@
+{
+	"category" : "SIXX-Core",
+	"classinstvars" : [
+		"protoClassResolver",
+		"protoFormatterResolver" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"objectsDictionary",
+		"classResolver",
+		"formatterResolver" ],
+	"name" : "SixxContext",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

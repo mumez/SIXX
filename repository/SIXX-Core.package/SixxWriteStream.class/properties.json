@@ -1,0 +1,17 @@
+{
+	"category" : "SIXX-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"stream",
+		"contextDictionary",
+		"isStartTagPut",
+		"isEndTagPut" ],
+	"name" : "SixxWriteStream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

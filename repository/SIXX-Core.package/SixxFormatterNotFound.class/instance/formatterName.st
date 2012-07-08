@@ -1,0 +1,3 @@
+accessing
+formatterName
+	^self className

@@ -1,0 +1,3 @@
+starting
+startUp
+	self release

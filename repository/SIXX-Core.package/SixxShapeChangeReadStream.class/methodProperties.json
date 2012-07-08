@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "mu 6/6/2007 20:32",
+		"setUpContextDictionary" : "mu 10/3/2007 15:35",
+		"shapeChangeClassResolver" : "mu 10/3/2007 17:27",
+		"shapeChangeClassResolver:" : "mu 6/6/2007 20:32",
+		"shapeChangers" : "mu 6/6/2007 20:36",
+		"shapeChangers:" : "mu 10/3/2007 17:42" } }

@@ -1,0 +1,20 @@
+{
+	"category" : "SIXX-Test",
+	"classinstvars" : [
+		"att1",
+		"att2",
+		"cache1" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"att1",
+		"att2",
+		"cache1",
+		"cache2" ],
+	"name" : "SixxMockObjectWithCache",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

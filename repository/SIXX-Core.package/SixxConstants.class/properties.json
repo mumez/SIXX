@@ -1,0 +1,18 @@
+{
+	"category" : "SIXX-Core",
+	"classinstvars" : [
+		"current" ],
+	"classvars" : [
+		"ConstantsDetectionMap",
+		"ConstantsDetectionMapByRoot" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"xmlVersion",
+		"xmlEncoding",
+		"sixxVersion",
+		"xmlDeclaration" ],
+	"name" : "SixxConstants",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"sixxFrom:" : "mu 12/25/2006 16:34",
+		"testNewFailedRead" : "jf 11/20/2009 12:39",
+		"testRenamedRead" : "jf 11/20/2009 12:39",
+		"testRenamedReadFailed" : "jf 11/20/2009 12:40",
+		"testShapeChangedComplexRead" : "jf 11/20/2009 12:40",
+		"testShapeChangedComplexReadFailed" : "jf 11/20/2009 12:40",
+		"testShapeChangedConverterRead" : "jf 11/20/2009 12:40",
+		"testShapeChangedConverterReadWithSameClassName" : "jf 11/20/2009 12:40",
+		"testShapeChangedRead" : "jf 11/20/2009 12:40",
+		"testShapeChangedReadCircularReference" : "jf 11/20/2009 12:41" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "SIXX-Examples",
+	"classinstvars" : [
+		"instances",
+		"cachedData" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"id",
+		"cachedData" ],
+	"name" : "SixxCustomStoreLoadExample",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

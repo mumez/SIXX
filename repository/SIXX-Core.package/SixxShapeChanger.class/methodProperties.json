@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"attributesMap" : "mu 12/22/2006 16:32",
+		"attributesMap:" : "mu 12/22/2006 16:32",
+		"circularReference" : "mu 11/2/2008 09:37",
+		"createShapeChangedObject" : "mu 6/23/2007 17:42",
+		"initializeShapeChangedObject" : "mu 1/15/2007 17:24",
+		"isSixxShapeChanger" : "mu 10/26/2008 17:51",
+		"preInitShapeChangedObject" : "mu 6/23/2007 17:42",
+		"shapeChangedObject" : "mu 6/23/2007 19:59",
+		"shapeChangedObject:" : "mu 12/22/2006 16:24",
+		"shapeChangedObjectClass" : "mu 12/22/2006 16:59",
+		"sixxBecomeTo:" : "mu 11/2/2008 13:39",
+		"sixxInstVarNamed:put:" : "mu 1/15/2007 17:15",
+		"sixxReadValue" : "mu 12/22/2006 16:29" } }

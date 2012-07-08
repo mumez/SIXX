@@ -1,0 +1,3 @@
+reading
+size
+	^ self limit

@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"morph" ],
+	"name" : "SixxMorphMemento",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

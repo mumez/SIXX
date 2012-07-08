@@ -1,0 +1,3 @@
+actions
+parseXml: xmlStringOrStream
+	self subclassResponsibility

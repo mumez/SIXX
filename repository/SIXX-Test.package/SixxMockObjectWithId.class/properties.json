@@ -1,0 +1,15 @@
+{
+	"category" : "SIXX-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"data" ],
+	"name" : "SixxMockObjectWithId",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

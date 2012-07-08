@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SixxFormatterResolver",
+	"pools" : [
+		 ],
+	"super" : "SixxResolver",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mu 1/15/2007 17:04",
+	"instvars" : [
+		"shapeChangeClassResolver" ],
+	"name" : "SixxShapeChangeReadStream",
+	"pools" : [
+		 ],
+	"super" : "SixxReadStream",
+	"type" : "normal" }

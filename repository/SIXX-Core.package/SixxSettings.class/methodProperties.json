@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"suppressNilWrite" : "mu 10/24/2009 14:06",
+		"suppressNilWrite:" : "mu 2/7/2009 09:45",
+		"useCDATA" : "MU 9/2/2002 02:26",
+		"useCDATA:" : "MU 9/2/2002 02:26",
+		"useCompactTags" : "mu 3/30/2007 11:40",
+		"useCompactTags:" : "mu 3/30/2007 11:40",
+		"useEnvironment" : "MU 3/6/2003 12:55",
+		"useEnvironment:" : "MU 3/6/2003 12:55",
+		"useNCR" : "mu 12/26/2006 11:04",
+		"useNCR:" : "mu 12/26/2006 11:04",
+		"useNormalTags" : "mu 6/8/2007 09:17",
+		"useNormalTags:" : "mu 6/8/2007 09:15",
+		"useRecoveryRead" : "MU 5/24/2003 18:32",
+		"useRecoveryRead:" : "MU 5/24/2003 18:33",
+		"useReducedTags" : "mu 6/7/2007 19:23",
+		"useReducedTags:" : "mu 6/7/2007 19:22" },
+	"instance" : {
+		 } }

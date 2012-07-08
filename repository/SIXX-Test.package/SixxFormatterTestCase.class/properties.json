@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SixxFormatterTestCase",
+	"pools" : [
+		 ],
+	"super" : "SixxAbstractTestCase",
+	"type" : "normal" }

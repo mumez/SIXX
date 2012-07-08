@@ -1,0 +1,18 @@
+{
+	"category" : "SIXX-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream",
+		"parser",
+		"contextDictionary",
+		"cachedObjects",
+		"position" ],
+	"name" : "SixxXppReadStream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

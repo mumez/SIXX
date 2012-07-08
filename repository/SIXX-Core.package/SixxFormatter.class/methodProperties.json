@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"on:" : "mu 10/9/2007 18:28" },
+	"instance" : {
+		"createInstanceOf:withSixxElement:" : "mu 10/31/2007 22:08",
+		"format:on:indent:context:" : "mu 10/9/2007 19:56",
+		"initialize:fromSixxElement:context:" : "mu 10/9/2007 19:54",
+		"name" : "mu 10/9/2007 18:37",
+		"name:" : "mu 6/13/2010 23:34",
+		"targetClass" : "mu 10/9/2007 18:28",
+		"targetClass:" : "mu 6/13/2010 23:34" } }

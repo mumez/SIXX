@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"header" ],
+	"name" : "SixxMockEnvelope",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

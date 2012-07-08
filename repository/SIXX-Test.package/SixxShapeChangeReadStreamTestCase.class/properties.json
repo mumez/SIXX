@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SixxShapeChangeReadStreamTestCase",
+	"pools" : [
+		 ],
+	"super" : "SixxAbstractTestCase",
+	"type" : "normal" }

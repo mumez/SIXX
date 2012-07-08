@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testIgnorableClassInstVarNames" : "mu 10/27/2007 16:06",
+		"testIgnorableInstVarNames" : "mu 12/17/2006 22:24",
+		"testNonReferencableClassInstVarNames" : "jf 11/20/2009 12:32",
+		"testNonReferencableInstVarNames" : "jf 11/20/2009 12:33",
+		"testReadSixxWriteValueAndSixxReadValue" : "mu 10/7/2007 11:28",
+		"testSameSixxWriteValueAndSixxReadValue" : "mu 3/23/2007 11:04",
+		"testSharedSixxWriteValueAndSixxReadValue" : "mu 10/7/2007 11:28",
+		"testSixxInitialize" : "mu 12/17/2006 22:38",
+		"testSixxPrepareWrite" : "mu 12/17/2006 22:35",
+		"testSixxStringForObjectWithId" : "mu 10/27/2007 16:13" } }

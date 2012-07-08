@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SixxMockBagFormatter",
+	"pools" : [
+		 ],
+	"super" : "SixxFormatter",
+	"type" : "normal" }

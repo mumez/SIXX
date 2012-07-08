@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SixxNoTypeDefinition",
+	"pools" : [
+		 ],
+	"super" : "SixxInvalidDeserialization",
+	"type" : "normal" }

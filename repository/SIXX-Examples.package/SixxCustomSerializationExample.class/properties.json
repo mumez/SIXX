@@ -1,0 +1,16 @@
+{
+	"category" : "SIXX-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"varTime",
+		"varString",
+		"varNumber" ],
+	"name" : "SixxCustomSerializationExample",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

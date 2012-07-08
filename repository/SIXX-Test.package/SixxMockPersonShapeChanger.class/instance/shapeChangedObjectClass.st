@@ -1,0 +1,4 @@
+override hooks
+shapeChangedObjectClass
+
+	^SixxMockPerson

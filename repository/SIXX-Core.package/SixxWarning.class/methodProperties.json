@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"signal:" : "MU 10/27/2002 17:23",
+		"signal:context:" : "MU 10/27/2002 17:23",
+		"signal:element:" : "MU 10/27/2002 17:27",
+		"signal:element:context:" : "mu 10/24/2009 14:07",
+		"signalElement:context:" : "mu 10/24/2009 14:07" },
+	"instance" : {
+		"className" : "MU 10/26/2002 01:35",
+		"className:" : "MU 10/26/2002 01:35",
+		"context" : "MU 10/26/2002 01:35",
+		"context:" : "MU 10/26/2002 01:35",
+		"defaultAction" : "MU 10/26/2002 01:35",
+		"element" : "MU 10/26/2002 01:35",
+		"element:" : "MU 10/26/2002 01:35" } }

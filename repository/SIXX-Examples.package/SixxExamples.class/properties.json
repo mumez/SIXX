@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SixxExamples",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

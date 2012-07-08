@@ -1,0 +1,15 @@
+{
+	"category" : "SIXX-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"owner" ],
+	"name" : "SixxMockRequest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SixxReducedConstants",
+	"pools" : [
+		 ],
+	"super" : "SixxConstants",
+	"type" : "normal" }

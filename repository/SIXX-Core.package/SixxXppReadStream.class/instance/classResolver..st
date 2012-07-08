@@ -1,0 +1,3 @@
+accessing
+classResolver: aClassResolver 
+	contextDictionary classResolver: aClassResolver

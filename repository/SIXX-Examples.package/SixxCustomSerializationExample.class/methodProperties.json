@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"createInstanceOf:withSixxElement:" : "mu 3/31/2007 21:52",
+		"example1" : "mu 3/31/2007 21:53" },
+	"instance" : {
+		"sixxContentOn:indent:context:" : "mu 3/31/2007 21:51",
+		"varNumber" : "mu 3/31/2007 21:51",
+		"varNumber:" : "mu 3/31/2007 21:51",
+		"varString" : "mu 3/31/2007 21:51",
+		"varString:" : "mu 3/31/2007 21:51",
+		"varTime" : "mu 3/31/2007 21:51",
+		"varTime:" : "mu 3/31/2007 21:51" } }

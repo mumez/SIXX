@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"createInstanceOf:withSixxElement:" : "mu 6/25/2004 03:32",
+		"new:" : "mu 6/24/2004 23:12",
+		"prototype1" : "mu 6/25/2004 00:05",
+		"prototype2" : "mu 6/25/2004 00:06" },
+	"instance" : {
+		"att1" : "mu 6/25/2004 00:04",
+		"att1:" : "mu 6/25/2004 00:04",
+		"att2" : "mu 6/25/2004 00:05",
+		"att2:" : "mu 6/25/2004 00:05",
+		"att3Block" : "mu 6/25/2004 00:05",
+		"att3Block:" : "mu 6/25/2004 00:05",
+		"initializeFromSixxElement:context:" : "mu 6/25/2004 03:45",
+		"sixxContentOn:indent:context:" : "mu 6/26/2004 16:45",
+		"sixxInitialize" : "mu 6/25/2004 00:04" } }

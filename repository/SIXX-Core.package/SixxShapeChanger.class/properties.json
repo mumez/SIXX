@@ -1,0 +1,15 @@
+{
+	"category" : "SIXX-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mu 2/10/2007 23:30",
+	"instvars" : [
+		"shapeChangedObject",
+		"attributesMap" ],
+	"name" : "SixxShapeChanger",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

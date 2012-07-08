@@ -1,0 +1,15 @@
+{
+	"category" : "SIXX-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"author",
+		"version" ],
+	"name" : "SixxMockBinaryData",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "variable" }

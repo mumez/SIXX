@@ -1,0 +1,3 @@
+accessing
+objectsDictionary: anIdentityDictionary
+	objectsDictionary := anIdentityDictionary

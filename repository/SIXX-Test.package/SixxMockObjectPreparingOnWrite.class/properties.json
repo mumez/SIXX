@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SixxMockObjectPreparingOnWrite",
+	"pools" : [
+		 ],
+	"super" : "SixxMockObjectWithCache",
+	"type" : "normal" }

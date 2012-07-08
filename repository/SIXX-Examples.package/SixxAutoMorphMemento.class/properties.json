@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Examples",
+	"classinstvars" : [
+		"instDict" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mu 12/22/2006 15:19",
+	"instvars" : [
+		 ],
+	"name" : "SixxAutoMorphMemento",
+	"pools" : [
+		 ],
+	"super" : "SixxMorphMemento",
+	"type" : "normal" }

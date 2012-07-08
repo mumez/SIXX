@@ -1,0 +1,15 @@
+{
+	"category" : "SIXX-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"targetClass" ],
+	"name" : "SixxFormatter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

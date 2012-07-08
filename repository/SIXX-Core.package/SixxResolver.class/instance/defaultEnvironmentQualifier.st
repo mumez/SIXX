@@ -1,0 +1,3 @@
+defaults
+defaultEnvironmentQualifier
+	^SixxPortableUtil defaultEnvironmentQualifier

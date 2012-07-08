@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"attributeAt:from:" : "kdt 5/26/2009 22:21",
+		"characterDataFrom:" : "kdt 5/27/2009 10:39",
+		"consumeEndTag:" : "kdt 5/27/2009 12:57",
+		"consumeEntireTag:" : "kdt 5/27/2009 17:07",
+		"consumeStartTag:" : "kdt 5/27/2009 12:57",
+		"consumeText:" : "kdt 5/27/2009 10:12",
+		"customReadStreamClass" : "kdt 5/27/2009 10:56",
+		"elementsFrom:do:" : "kdt 5/27/2009 13:11",
+		"hasSubElementsFrom:" : "kdt 5/27/2009 21:19",
+		"nameFrom:" : "kdt 5/26/2009 22:43",
+		"parseXml:" : "kdt 5/27/2009 12:56",
+		"withErrorHandlerDo:" : "kdt 5/27/2009 16:27" },
+	"instance" : {
+		 } }

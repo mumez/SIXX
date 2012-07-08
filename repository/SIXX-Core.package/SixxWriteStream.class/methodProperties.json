@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"new" : "MU 5/31/2002 11:20",
+		"newFileNamed:" : "kuri-t 5/17/2002 12:29",
+		"on:" : "kuri-t 5/31/2002 16:42",
+		"onWithDeclaration:" : "kuri-t 5/31/2002 16:42" },
+	"instance" : {
+		"close" : "MU 5/31/2002 11:45",
+		"contents" : "mu 7/30/2006 22:03",
+		"contextDictionary" : "MU 5/31/2002 11:35",
+		"contextDictionary:" : "MU 5/31/2002 11:35",
+		"cr" : "kuri-t 5/17/2002 13:56",
+		"endTag" : "mu 3/29/2007 22:49",
+		"initialize" : "mu 7/13/2008 20:36",
+		"isEndTagPut" : "MU 5/31/2002 11:35",
+		"isEndTagPut:" : "MU 5/31/2002 11:35",
+		"isStartTagPut" : "MU 5/31/2002 11:35",
+		"isStartTagPut:" : "MU 5/31/2002 11:35",
+		"newFileNamed:" : "MU 6/14/2002 11:59",
+		"nextPut:" : "MU 5/31/2002 11:45",
+		"nextPutAll:" : "kuri-t 5/17/2002 14:31",
+		"on:" : "MU 5/31/2002 11:19",
+		"rawContents" : "MU 5/31/2002 11:53",
+		"startTag" : "mu 3/29/2007 22:48",
+		"stream" : "MU 5/31/2002 11:35",
+		"stream:" : "MU 5/31/2002 11:35",
+		"xmlDeclaration" : "mu 3/29/2007 22:48" } }

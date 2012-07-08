@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"becomeFrom:to:" : "mu 10/26/2008 18:55",
+		"charCodeOf:" : "mu 9/13/2006 13:02",
+		"classAt:in:" : "mu 1/16/2007 11:58",
+		"defaultEnvironmentQualifier" : "mu 10/20/2007 16:24",
+		"environmentQualifierOf:" : "MU 3/6/2003 15:55",
+		"initialize" : "mu 12/25/2006 10:28",
+		"mappedClassNameFor:" : "mu 1/16/2007 11:57",
+		"obsolete" : "MU 3/18/2003 18:32",
+		"readFileStreamNamed:" : "MU 6/11/2002 12:29",
+		"settings" : "mu 12/25/2006 10:30",
+		"signalException:" : "MU 6/11/2003 17:26",
+		"writeFileStreamNamed:" : "MU 6/11/2002 12:35" },
+	"instance" : {
+		 } }

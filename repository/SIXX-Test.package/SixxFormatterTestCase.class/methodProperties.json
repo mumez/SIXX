@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"bagFormatter" : "mu 10/10/2007 17:44",
+		"collectionEquals:with:" : "mu 11/1/2007 20:07",
+		"formatters" : "mu 10/10/2007 17:46",
+		"testBagReadWrite" : "mu 11/1/2007 20:07",
+		"testLiteralArrayReadWrite" : "mu 10/31/2007 22:19" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "SIXX-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"requests",
+		"partners" ],
+	"name" : "SixxMockPerson",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"new" : "kdt 5/26/2009 15:47",
+		"on:" : "kdt 5/26/2009 15:54",
+		"readOnlyFileNamed:" : "kdt 5/27/2009 10:50" },
+	"instance" : {
+		"atEnd" : "kdt 5/26/2009 23:41",
+		"cachedObjects" : "kdt 5/26/2009 22:55",
+		"checkForStart" : "kdt 5/26/2009 22:51",
+		"checkSixxElement" : "kdt 5/26/2009 22:41",
+		"classResolver" : "kdt 5/27/2009 18:18",
+		"classResolver:" : "kdt 5/27/2009 18:18",
+		"close" : "kdt 5/26/2009 15:56",
+		"next" : "kdt 5/27/2009 10:43",
+		"next:" : "kdt 5/26/2009 23:06",
+		"nextSixxObject" : "kdt 5/27/2009 09:39",
+		"peek" : "kdt 5/26/2009 23:08",
+		"position" : "kdt 5/26/2009 23:01",
+		"position:" : "kdt 5/26/2009 23:10",
+		"postInitialize" : "kdt 5/27/2009 18:19",
+		"reset" : "kdt 5/26/2009 23:10",
+		"shapeChangers" : "kdt 5/27/2009 18:18",
+		"shapeChangers:" : "kdt 5/27/2009 18:18",
+		"skip:" : "kdt 5/26/2009 23:10",
+		"stream:" : "kdt 5/26/2009 16:40" } }

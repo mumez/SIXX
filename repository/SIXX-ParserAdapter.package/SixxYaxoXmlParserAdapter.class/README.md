@@ -1,0 +1,1 @@
+This adapter class will be outdated - just supplied for older YAXO

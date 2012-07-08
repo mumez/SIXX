@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAtEnd" : "jf 11/20/2009 12:35",
+		"testCachedObjects" : "jf 11/20/2009 12:35",
+		"testCompactNext" : "jf 11/20/2009 12:35",
+		"testCompactNextWithIdref" : "jf 11/20/2009 12:35",
+		"testCompactRecoveryRead" : "jf 11/20/2009 12:35",
+		"testNext" : "jf 11/20/2009 12:36",
+		"testNextMany" : "jf 11/20/2009 12:37",
+		"testNextWithIdref" : "jf 11/20/2009 12:37",
+		"testPeek" : "jf 11/20/2009 12:38",
+		"testPosition" : "jf 11/20/2009 12:38",
+		"testReadEmptyStream" : "jf 11/20/2009 12:38",
+		"testReadNextContainsIdref" : "jf 11/20/2009 12:38",
+		"testRecoveryRead" : "jf 11/20/2009 12:38",
+		"testReset" : "jf 11/20/2009 12:38",
+		"testSize" : "jf 11/20/2009 12:39",
+		"testSkip" : "jf 11/20/2009 12:39" } }

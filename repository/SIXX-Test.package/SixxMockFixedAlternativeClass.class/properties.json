@@ -1,0 +1,14 @@
+{
+	"category" : "SIXX-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SixxMockFixedAlternativeClass",
+	"pools" : [
+		 ],
+	"super" : "SixxMockFixedNewFailedClass",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfSIXX",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfSIXX",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

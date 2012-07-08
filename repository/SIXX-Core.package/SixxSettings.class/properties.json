@@ -1,0 +1,18 @@
+{
+	"category" : "SIXX-Core",
+	"classinstvars" : [
+		"useCDATA",
+		"useEnvironment",
+		"useRecoveryRead",
+		"useNCR",
+		"suppressNilWrite" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SixxSettings",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

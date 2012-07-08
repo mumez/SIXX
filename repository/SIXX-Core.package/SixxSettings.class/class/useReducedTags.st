@@ -1,0 +1,3 @@
+accessing
+useReducedTags
+	^SixxConstants useReducedTags

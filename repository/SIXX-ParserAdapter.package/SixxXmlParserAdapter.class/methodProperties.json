@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"attributeAt:from:" : "kuri-t 5/15/2002 17:46",
+		"characterDataFrom:" : "kuri-t 5/15/2002 17:51",
+		"consumeEndTag:" : "kdt 5/27/2009 17:08",
+		"consumeEntireTag:" : "kdt 5/27/2009 17:08",
+		"consumeStartTag:" : "kdt 5/27/2009 17:08",
+		"consumeText:" : "kdt 5/27/2009 22:57",
+		"customReadStreamClass" : "kdt 5/27/2009 10:56",
+		"elementsFrom:" : "kuri-t 5/15/2002 17:46",
+		"elementsFrom:do:" : "kdt 5/26/2009 21:56",
+		"hasSubElementsFrom:" : "kdt 5/27/2009 21:14",
+		"isTextFrom:" : "mu 2/9/2010 23:42",
+		"nameFrom:" : "kuri-t 5/20/2002 19:23",
+		"parseXml:" : "kuri-t 5/16/2002 14:29" },
+	"instance" : {
+		 } }

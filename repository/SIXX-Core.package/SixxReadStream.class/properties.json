@@ -1,0 +1,19 @@
+{
+	"category" : "SIXX-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"stream",
+		"sixxElements",
+		"contextDictionary",
+		"position",
+		"limit",
+		"cachedObjects" ],
+	"name" : "SixxReadStream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
