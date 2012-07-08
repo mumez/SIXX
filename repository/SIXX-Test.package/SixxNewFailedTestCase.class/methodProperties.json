@@ -3,6 +3,6 @@
 		 },
 	"instance" : {
 		"testWriteReadNewFailedClass" : "mu 6/24/2004 22:54",
-		"testWriteReadNewFailedClassReciverAlternative" : "mu 6/24/2004 23:04",
+		"testWriteReadNewFailedClassReceiverAlternative" : "mu 4/26/2011 13:42",
 		"testWriteReadNewVariableFailedClass" : "mu 6/24/2004 23:10",
 		"testWriteReadNewVariableFailedClassReciverAlternative" : "mu 6/25/2004 00:59" } }
