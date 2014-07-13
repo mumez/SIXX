@@ -2,7 +2,6 @@
 	"category" : "SIXX-Test",
 	"classinstvars" : [
 		"instVar3" ],
-	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
@@ -12,5 +11,4 @@
 	"pools" : [
 		 ],
 	"super" : "SixxMockSuperClassForUnitTest",
-	"traitcomposition" : "{}",
 	"type" : "normal" }

@@ -13,5 +13,5 @@ testReadSixxForDateAndTimeOldFormat
 </sixx.object>
 '.
 	self
-		should: [(Object readSixxFrom: sixxString)
-				= (DateAndTime year: 2006 day: 346 hour: 19 minute: 9 second: 12 offset: Duration zero)]
+		should: [(Object readSixxFrom: sixxString) printString
+				= (DateAndTime year: 2006 day: 346 hour: 19 minute: 9 second: 12 offset: Duration zero) printString]

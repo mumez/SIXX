@@ -4,5 +4,5 @@ testReadSixxForDate
 	sixxString := '<sixx.object sixx.id="0" sixx.type="Date" >14 May 2002</sixx.object>
 '.
 	self
-		should: [(Object readSixxFrom: sixxString)
-				= (Date fromDays: 37023)]
+		should: [(Object readSixxFrom: sixxString) printString
+				= (Date fromDays: 37023) printString]

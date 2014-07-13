@@ -2,7 +2,6 @@
 	"category" : "SIXX-Test",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "mu 12/17/2006 22:38",
@@ -12,5 +11,4 @@
 	"pools" : [
 		 ],
 	"super" : "SixxAbstractTestCase",
-	"traitcomposition" : "{}",
 	"type" : "normal" }
