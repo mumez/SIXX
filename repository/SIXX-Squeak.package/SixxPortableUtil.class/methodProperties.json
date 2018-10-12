@@ -8,9 +8,9 @@
 		"initialize" : "mu 12/25/2006 10:28",
 		"mappedClassNameFor:" : "mu 1/16/2007 11:57",
 		"obsolete" : "MU 3/18/2003 18:32",
-		"readFileStreamNamed:" : "MU 6/11/2002 12:29",
+		"readFileStreamNamed:" : "MU 12/30/2015 23:11",
 		"settings" : "mu 12/25/2006 10:30",
 		"signalException:" : "MU 6/11/2003 17:26",
-		"writeFileStreamNamed:" : "MU 6/11/2002 12:35" },
+		"writeFileStreamNamed:" : "MU 12/30/2015 23:11" },
 	"instance" : {
 		 } }

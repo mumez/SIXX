@@ -1,5 +1,8 @@
 {
-	"class" : {
-		"createInstanceOf:withSixxElement:" : "mu 4/20/2011 00:34" },
 	"instance" : {
-		"sixxContentOn:indent:context:" : "mu 4/20/2011 00:31" } }
+		"sixxContentOn:indent:context:" : "mu 4/20/2011 00:31"
+	},
+	"class" : {
+		"createInstanceOf:withSixxElement:" : "mu 4/20/2011 00:34"
+	}
+}

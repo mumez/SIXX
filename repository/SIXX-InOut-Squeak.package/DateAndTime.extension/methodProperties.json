@@ -1,7 +1,10 @@
 {
-	"class" : {
-		"createInstanceOf:withSixxElement:" : "mu 2/9/2010 23:48",
-		"readSixxContentStringFrom:" : "mu 3/29/2007 22:34" },
 	"instance" : {
 		"sixxContentOn:indent:context:" : "mu 7/20/2006 15:47",
-		"sixxContentString" : "mu 7/20/2006 15:47" } }
+		"sixxContentString" : "mu 7/20/2006 15:47"
+	},
+	"class" : {
+		"createInstanceOf:withSixxElement:" : "mu 2/9/2010 23:48",
+		"readSixxContentStringFrom:" : "mu 3/29/2007 22:34"
+	}
+}

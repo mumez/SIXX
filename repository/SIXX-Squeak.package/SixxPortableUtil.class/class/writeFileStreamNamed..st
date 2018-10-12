@@ -1,4 +1,4 @@
 actions
 writeFileStreamNamed: aFilename
 	"#Squeak Specific#"
-	^CrLfFileStream newFileNamed: aFilename.
+	^MultiByteFileStream newFileNamed: aFilename.

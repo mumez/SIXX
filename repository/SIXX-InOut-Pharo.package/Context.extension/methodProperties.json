@@ -1,5 +1,8 @@
 {
-	"class" : {
-		"sixxContentOn:indent:context:" : "MasashiUmezawa 8/28/2015 14:23" },
 	"instance" : {
-		"sixxContentOn:indent:context:" : "MasashiUmezawa 8/28/2015 14:27" } }
+		"sixxContentOn:indent:context:" : "MasashiUmezawa 8/28/2015 14:27"
+	},
+	"class" : {
+		"createInstanceOf:withSixxElement:" : "MasashiUmezawa 10/12/2018 22:48"
+	}
+}
