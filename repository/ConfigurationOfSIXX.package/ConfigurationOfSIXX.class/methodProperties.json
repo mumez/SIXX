@@ -1,21 +1,32 @@
 {
-	"class" : {
-		"bootstrapPackage:from:" : "mu 8/28/2010 22:09",
-		"ensureMetacello" : "mu 8/28/2010 22:09",
-		"isMetacelloConfig" : "mu 8/28/2010 22:09",
-		"lastMetacelloVersionLoad" : "mu 8/28/2010 22:09",
-		"load" : "mu 8/28/2010 22:09",
-		"metacelloVersion:loads:" : "mu 8/28/2010 22:09",
-		"project" : "mu 8/28/2010 22:09",
-		"unloadMetacello" : "mu 8/28/2010 22:09",
-		"validate" : "MasashiUmezawa 8/28/2015 14:38" },
 	"instance" : {
-		"baseline03:" : "mu 4/1/2011 14:35",
-		"baseline04:" : "mu 7/13/2014 23:43",
-		"project" : "mu 8/28/2010 22:09",
-		"version034:" : "mu 9/30/2010 16:46",
-		"version035:" : "MasashiUmezawa 2/24/2011 00:12",
-		"version036:" : "mu 3/2/2011 13:40",
 		"version040:" : "mu 7/13/2014 23:55",
+		"development:" : "MasashiUmezawa 10/12/2018 21:14",
+		"version034:" : "mu 9/30/2010 16:46",
+		"version036:" : "mu 3/2/2011 13:40",
+		"baseline04:" : "mu 7/13/2014 23:43",
+		"version042:" : "MarianoMartinezPeck 4/21/2016 14:43",
+		"version050:" : "MasashiUmezawa 10/12/2018 22:52",
 		"version041:" : "MasashiUmezawa 8/28/2015 14:34",
-		"version042:" : "MasashiUmezawa 1/3/2016 15:44" } }
+		"version035:" : "MasashiUmezawa 2/24/2011 00:12",
+		"version043:" : "MU 10/8/2018 16:26",
+		"baseline05:" : "MasashiUmezawa 10/12/2018 22:38",
+		"baseline03:" : "mu 4/1/2011 14:35",
+		"stable:" : "MasashiUmezawa 10/12/2018 22:40",
+		"project" : "mu 8/28/2010 22:09"
+	},
+	"class" : {
+		"catalogDescription" : "MasashiUmezawa 10/12/2018 21:11",
+		"load" : "mu 8/28/2010 22:09",
+		"lastMetacelloVersionLoad" : "mu 8/28/2010 22:09",
+		"unloadMetacello" : "mu 8/28/2010 22:09",
+		"ensureMetacello" : "mu 8/28/2010 22:09",
+		"metacelloVersion:loads:" : "mu 8/28/2010 22:09",
+		"catalogKeywords" : "MasashiUmezawa 10/12/2018 21:12",
+		"bootstrapPackage:from:" : "mu 8/28/2010 22:09",
+		"isMetacelloConfig" : "MasashiUmezawa 10/12/2018 21:13",
+		"validate" : "MasashiUmezawa 8/28/2015 14:38",
+		"catalogContactInfo" : "MasashiUmezawa 10/12/2018 21:12",
+		"project" : "mu 8/28/2010 22:09"
+	}
+}

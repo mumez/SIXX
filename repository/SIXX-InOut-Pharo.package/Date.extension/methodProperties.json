@@ -1,5 +1,8 @@
 {
-	"class" : {
-		"readSixxContentStringFrom:" : "mu 1/16/2007 11:27" },
 	"instance" : {
-		"sixxContentString" : "MU 9/16/2002 22:28" } }
+		"sixxContentString" : "MU 9/16/2002 22:28"
+	},
+	"class" : {
+		"readSixxContentStringFrom:" : "mu 1/16/2007 11:27"
+	}
+}

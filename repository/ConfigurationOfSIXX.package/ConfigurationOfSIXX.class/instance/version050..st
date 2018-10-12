@@ -1,10 +1,8 @@
 versions
-version042: spec
-	<version: '0.4.2' imports: #('0.4-baseline')>
+version050: spec
+	<version: '0.5.0' imports: #('0.5-baseline')>
 
 	spec for: #common do:[
-		spec blessing: #beta.
-		
 		spec 
 			package: 'SIXX-Core' with: 'SIXX-Core-MasashiUmezawa.19';
 			package: 'SIXX-ParserAdapter' with: 'SIXX-ParserAdapter-MasashiUmezawa.13';
@@ -19,12 +17,12 @@ version042: spec
 	spec for: #squeak do:[
 		spec blessing: #beta.
 		spec 
-			package: 'SIXX-InOut-Squeak' with: 'SIXX-InOut-Squeak-mu.11'.
+			package: 'SIXX-InOut-Squeak' with: 'SIXX-InOut-Squeak-MU.12'.
 	].
 	spec for: #pharo do:[
 		spec blessing: #beta.
 		spec
-			project: 'XMLParser' with: '2.5.0'.
+			project: 'XMLParser' with: '3.4.8'.
 		spec 
-			package: 'SIXX-InOut-Pharo' with: 'SIXX-InOut-Pharo-MasashiUmezawa.4'.
+			package: 'SIXX-InOut-Pharo' with: 'SIXX-InOut-Pharo-MasashiUmezawa.5'.
 	].

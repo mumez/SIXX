@@ -1,6 +1,6 @@
 versions
-version042: spec
-	<version: '0.4.2' imports: #('0.4-baseline')>
+version043: spec
+	<version: '0.4.3' imports: #('0.4-baseline')>
 
 	spec for: #common do:[
 		spec blessing: #beta.
@@ -19,7 +19,7 @@ version042: spec
 	spec for: #squeak do:[
 		spec blessing: #beta.
 		spec 
-			package: 'SIXX-InOut-Squeak' with: 'SIXX-InOut-Squeak-mu.11'.
+			package: 'SIXX-InOut-Squeak' with: 'SIXX-InOut-Squeak-MU.12'.
 	].
 	spec for: #pharo do:[
 		spec blessing: #beta.
