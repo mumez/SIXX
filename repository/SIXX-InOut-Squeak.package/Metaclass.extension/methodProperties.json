@@ -1,5 +1,6 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"sixxMetaclassInstance" : "jf 11/16/2009 12:03" } }
+		"sixxMetaclassInstance" : "jf 11/16/2009 12:03"
+	},
+	"class" : { }
+}

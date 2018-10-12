@@ -1,5 +1,6 @@
 {
+	"instance" : { },
 	"class" : {
-		"readSixxContentStringFrom:" : "jf 11/16/2009 11:33" },
-	"instance" : {
-		 } }
+		"readSixxContentStringFrom:" : "jf 11/16/2009 11:33"
+	}
+}
