@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SIXX-Pharo",
+	"classinstvars" : [
+		"settings"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SixxPortableUtil",
+	"type" : "normal"
+}

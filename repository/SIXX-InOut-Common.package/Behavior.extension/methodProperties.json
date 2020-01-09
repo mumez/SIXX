@@ -1,23 +1,24 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"classFromSixxElement:context:" : "mu 10/4/2007 16:56",
-		"createInstanceOf:withSixxElement:" : "mu 6/25/2004 03:25",
-		"createMixedFieldsInstanceOf:withSixxElement:" : "mu 6/25/2004 03:25",
+		"newInstanceFromSixxElement:context:" : "mu 11/2/2008 10:46",
 		"envFromSixxElement:" : "mu 3/29/2007 23:15",
-		"formatterFromSixxElement:for:context:" : "mu 10/16/2007 19:59",
 		"formatterNameFromSixxElement:" : "mu 10/9/2007 17:32",
-		"fromSixxElement:context:" : "MU 5/31/2002 15:21",
+		"typeFromSixxElement:" : "mu 3/29/2007 23:14",
 		"idFromSixxElement:" : "mu 7/13/2008 20:34",
+		"classFromSixxElement:context:" : "mu 10/4/2007 16:56",
+		"readSixxFrom:context:" : "kuri-t 5/20/2002 14:04",
+		"formatterFromSixxElement:for:context:" : "mu 10/16/2007 19:59",
+		"readSixxFromSixxElement:context:" : "mu 10/24/2009 14:10",
+		"sixxNew:withSixxElement:" : "mu 6/24/2004 22:20",
+		"fromSixxElement:context:" : "MU 5/31/2002 15:21",
+		"createInstanceOf:withSixxElement:" : "mu 6/25/2004 03:25",
 		"idrefFromSixxElement:" : "mu 7/13/2008 20:33",
+		"readSixxFrom:" : "mu 7/13/2008 20:35",
+		"createMixedFieldsInstanceOf:withSixxElement:" : "mu 6/25/2004 03:25",
+		"refInstanceFromSixxElement:context:" : "mu 10/26/2008 15:31",
 		"includesRefInstanceFromSixxElement:context:" : "kuri-t 6/3/2002 16:06",
 		"nameFromSixxElement:" : "mu 3/29/2007 23:13",
-		"newInstanceFromSixxElement:context:" : "mu 11/2/2008 10:46",
-		"readSixxFrom:" : "mu 7/13/2008 20:35",
-		"readSixxFrom:context:" : "kuri-t 5/20/2002 14:04",
-		"readSixxFromSixxElement:context:" : "mu 10/24/2009 14:10",
-		"refInstanceFromSixxElement:context:" : "mu 10/26/2008 15:31",
-		"sixxNew:size:withSixxElement:" : "mu 6/26/2004 16:21",
-		"sixxNew:withSixxElement:" : "mu 6/24/2004 22:20",
-		"typeFromSixxElement:" : "mu 3/29/2007 23:14" } }
+		"sixxNew:size:withSixxElement:" : "mu 6/26/2004 16:21"
+	},
+	"class" : { }
+}

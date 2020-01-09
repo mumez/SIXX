@@ -1,5 +1,6 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"createInstanceOf:withSixxElement:" : "jf 11/20/2009 13:17" } }
+		"createInstanceOf:withSixxElement:" : "jf 11/20/2009 13:17"
+	},
+	"class" : { }
+}
