@@ -1,9 +1,12 @@
 {
-	"class" : {
-		"createInstanceOf:withSixxElement:" : "mu 6/25/2004 03:32" },
 	"instance" : {
 		"initializeFromSixxElement:context:" : "kdt 5/26/2009 22:03",
-		"sixxContentOn:indent:context:" : "mu 9/27/2007 16:54",
 		"sixxDo:" : "mu 9/27/2007 14:43",
+		"sixxMixedFieldsOn:indent:context:" : "mu 6/25/2004 04:55",
 		"sixxIndexFieldsOn:indent:context:" : "mu 9/27/2007 16:42",
-		"sixxMixedFieldsOn:indent:context:" : "mu 6/25/2004 04:55" } }
+		"sixxContentOn:indent:context:" : "mu 9/27/2007 16:54"
+	},
+	"class" : {
+		"createInstanceOf:withSixxElement:" : "mu 6/25/2004 03:32"
+	}
+}

@@ -1,6 +1,7 @@
 {
+	"instance" : { },
 	"class" : {
 		"createInstanceOf:withSixxElement:" : "mu 5/4/2007 13:19",
-		"readSixxContentStringFrom:" : "mu 5/4/2007 13:27" },
-	"instance" : {
-		 } }
+		"readSixxContentStringFrom:" : "mu 5/4/2007 13:27"
+	}
+}
