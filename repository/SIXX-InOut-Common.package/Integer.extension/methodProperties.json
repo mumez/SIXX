@@ -1,5 +1,8 @@
 {
-	"class" : {
-		"readShortHexFrom:" : "mu 6/26/2004 10:25" },
 	"instance" : {
-		"shortHexString" : "mu 6/26/2004 12:11" } }
+		"shortHexString" : "mu 6/26/2004 12:11"
+	},
+	"class" : {
+		"readShortHexFrom:" : "mu 6/26/2004 10:25"
+	}
+}

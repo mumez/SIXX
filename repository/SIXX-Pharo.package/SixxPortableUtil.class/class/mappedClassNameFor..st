@@ -1,0 +1,4 @@
+actions
+mappedClassNameFor: classNameSymbol
+	
+	^classNameSymbol

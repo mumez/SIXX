@@ -1,5 +1,6 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"initializeFromSixxElement:context:" : "kdt 5/26/2009 22:04" } }
+		"initializeFromSixxElement:context:" : "kdt 5/26/2009 22:04"
+	},
+	"class" : { }
+}
