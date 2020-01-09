@@ -1,4 +1,4 @@
-*SIXX-Pharo
+actions
 readFileStreamNamed: aFilename
 	"#Pharo Specific#"
 	^aFilename asFileReference readStream.

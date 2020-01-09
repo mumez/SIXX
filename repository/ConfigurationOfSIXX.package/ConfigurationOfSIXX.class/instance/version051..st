@@ -22,7 +22,7 @@ version051: spec
 		spec
 			project: 'XMLParser' with: '3.5.0'.
 		spec 
-			package: 'SIXX-Pharo' with: 'SIXX-Pharo-MasashiUmezawa.2'.
+			package: 'SIXX-Pharo' with: 'SIXX-Pharo-MasashiUmezawa.3'.
 		spec 
 			package: 'SIXX-InOut-Pharo' with: 'SIXX-InOut-Pharo-MasashiUmezawa.5'.
 	].
