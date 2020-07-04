@@ -18,13 +18,8 @@ Installer squeaksource
 
 #### Pharo
 ```Smalltalk
-Gofer it
-    smalltalkhubUser: 'MasashiUmezawa' project: 'SIXX';
-    configuration;
-    load.
-(Smalltalk at: #ConfigurationOfSIXX) perform: #load.
+Metacello new
+  configuration: 'SIXX';
+  repository: 'github://mumez/SIXX/repository';
+  load.
 ```
-
-
-
-

@@ -1,12 +1,13 @@
 {
 	"instance" : {
 		"version040:" : "mu 7/13/2014 23:55",
-		"development:" : "MasashiUmezawa 10/12/2018 21:14",
+		"development:" : "MU 7/4/2020 22:45",
 		"version034:" : "mu 9/30/2010 16:46",
 		"version036:" : "mu 3/2/2011 13:40",
 		"baseline04:" : "mu 7/13/2014 23:43",
 		"version042:" : "MarianoMartinezPeck 4/21/2016 14:43",
 		"version050:" : "MasashiUmezawa 10/12/2018 22:52",
+		"version052:" : "MU 7/4/2020 22:44",
 		"baseline06:" : "MasashiUmezawa 1/9/2020 18:04",
 		"version041:" : "MasashiUmezawa 8/28/2015 14:34",
 		"version035:" : "MasashiUmezawa 2/24/2011 00:12",
@@ -14,7 +15,8 @@
 		"baseline05:" : "MasashiUmezawa 10/12/2018 22:38",
 		"baseline03:" : "mu 4/1/2011 14:35",
 		"version051:" : "MasashiUmezawa 1/9/2020 19:02",
-		"stable:" : "MasashiUmezawa 1/9/2020 18:23",
+		"stable:" : "MU 7/4/2020 22:45",
+		"baseline07:" : "MU 7/4/2020 22:44",
 		"project" : "mu 8/28/2010 22:09"
 	},
 	"class" : {
