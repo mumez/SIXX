@@ -19,7 +19,7 @@ Installer squeaksource
 #### Pharo
 ```Smalltalk
 Metacello new
-  configuration: 'SIXX';
-  repository: 'github://mumez/SIXX/repository';
-  load.
+  baseline: 'SIXX';
+  repository: 'github://mumez/SIXX';
+  load
 ```
