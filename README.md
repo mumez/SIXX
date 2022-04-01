@@ -21,5 +21,5 @@ Installer squeaksource
 Metacello new
   baseline: 'SIXX';
   repository: 'github://mumez/SIXX';
-  load.
+  load
 ```
