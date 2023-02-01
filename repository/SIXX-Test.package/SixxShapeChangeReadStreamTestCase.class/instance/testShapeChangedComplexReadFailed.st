@@ -18,7 +18,7 @@ testShapeChangedComplexReadFailed
 </sixx>'.
 	srs := SixxShapeChangeReadStream on: (ReadStream on: oldSixx).
 	srs shapeChangers at: #SixxMockShapeChangedObjectFAILED put: SixxMockShapeChangedObject.
-	arr := srs next.
+	arr := self ignoreWarning: [srs next].
 	srs close.
 	self should: [arr class = Array].
 	self should: [arr = #(nil nil nil 'here')].
