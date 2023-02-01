@@ -7,7 +7,7 @@ SmalltalkCISpec {
       #onConflict : #useLoaded,
       #useLatestMetacello : false,
       #onWarningLog : true,
-      #platforms : [ #pharo ]
+      #platforms : [ #pharo, #squeak ]
     }
   ]
 }
