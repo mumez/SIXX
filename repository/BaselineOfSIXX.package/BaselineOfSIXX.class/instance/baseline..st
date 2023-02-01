@@ -18,7 +18,6 @@ baseline: spec
 			group: 'Examples' with: #('SIXX-Examples');
 			group: 'Tests' with: #('SIXX-Test')].
 	spec for: #squeak do:[
-		self xmlParser: spec.
 		spec package: 'SIXX-Squeak'.
 		spec package: 'SIXX-ParserAdapter' with: [spec requires: 'XML-Parser'].
 		spec package: 'SIXX-InOut-Common' with: [spec includes: 'SIXX-InOut-Squeak'].
