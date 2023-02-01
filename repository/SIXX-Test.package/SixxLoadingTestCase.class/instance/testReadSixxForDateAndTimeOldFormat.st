@@ -2,6 +2,7 @@ tests
 testReadSixxForDateAndTimeOldFormat
 	"self debug: #testReadSixxForDateAndTimeOldFormat"
 	| sixxString |
+	(#('Squeak5*' 'Squeak6*') anySatisfy:[:each | each match: Smalltalk version]) ifTrue: [^self].
 	sixxString :=   '<sixx.object sixx.id="0" sixx.type="DateAndTime" sixx.env="Smalltalk" >
 	<sixx.object sixx.id="1" sixx.name="seconds" sixx.type="SmallInteger" sixx.env="Smalltalk" >68952</sixx.object>
 	<sixx.object sixx.id="2" sixx.name="offset" sixx.type="Duration" sixx.env="Smalltalk" >

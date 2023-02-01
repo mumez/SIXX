@@ -15,7 +15,7 @@ testShapeChangedComplexReadFailed
 		<sixx.object sixx.id="0" sixx.type="String" >here</sixx.object>
 	</sixx.object>'.
 	SixxContext evaluate: [
-		arr :=  Object readSixxFrom: oldSixx.
+		arr := self ignoreWarning: [Object readSixxFrom: oldSixx].
 	] shapeChangersBy: [:shapeChangers | 
 		shapeChangers at: #SixxMockShapeChangedObjectFAILED put: SixxMockShapeChangedObject.
 	].

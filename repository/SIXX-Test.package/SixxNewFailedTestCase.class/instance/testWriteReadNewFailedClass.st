@@ -5,10 +5,10 @@ testWriteReadNewFailedClass
 	self should: [original att1 = 1].
 	self should: [original att2 =  'TWO']. 
 	self should: [original sixxString] raise: SixxInvalidSerialization.
-	sixxString := original sixxString.
-	
+	sixxString := self ignoreWarning: [original sixxString].
+
 	self should: [Object readSixxFrom: sixxString] raise: SixxNewFailed.
-	read := Object readSixxFrom: sixxString.
+	read := self ignoreWarning: [Object readSixxFrom: sixxString].
 	self should: [read att1 = 1].
 	self should: [read att2 =  'TWO'].
 	self should: [read att3Block notNil].

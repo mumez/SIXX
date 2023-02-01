@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testWriteReadNewFailedClass" : "mu 6/24/2004 22:54",
-		"testWriteReadNewFailedClassReceiverAlternative" : "mu 4/26/2011 13:42",
-		"testWriteReadNewVariableFailedClass" : "mu 6/24/2004 23:10",
-		"testWriteReadNewVariableFailedClassReceiverAlternative" : "MasashiUmezawa 7/8/2012 23:59" } }
+		"testWriteReadNewFailedClass" : "MU 2/1/2023 16:07",
+		"testWriteReadNewFailedClassReceiverAlternative" : "MU 2/1/2023 16:45",
+		"testWriteReadNewVariableFailedClass" : "MU 2/1/2023 16:45",
+		"testWriteReadNewVariableFailedClassReceiverAlternative" : "MU 2/1/2023 16:46" } }
