@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfSIXX!
+self packageOrganizer ensurePackage: #BaselineOfSIXX withTags: #()!
