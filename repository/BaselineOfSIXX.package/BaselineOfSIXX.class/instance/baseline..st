@@ -33,7 +33,7 @@ baseline: spec
 		spec package: 'SIXX-InOut-Common' with: [spec includes: 'SIXX-InOut-Pharo'].
 		spec package: 'SIXX-InOut-Pharo' with: [spec requires: #('SIXX-Pharo' 'SIXX-InOut-Common')].
 	].
-	spec for: #(#'pharo11.x' #'pharo12.x') do:[
+	spec for: #(#'pharo11.x' #'pharo12.x' #'pharo13.x') do:[
 		spec package: 'SIXX-InOut-Common' with: [spec includes: 'SIXX-InOut-Pharo110'].
 		spec package: 'SIXX-InOut-Pharo110' with: [spec requires: #('SIXX-Pharo' 'SIXX-InOut-Common')].
 	].
