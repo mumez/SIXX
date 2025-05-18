@@ -8,7 +8,8 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        smalltalk: [Pharo64-10, Pharo64-11, Pharo64-12, Squeak64-6.0]
+        smalltalk:
+          [Pharo64-10, Pharo64-11, Pharo64-12, Pharo64-13, Squeak64-6.0]
         experimental: [false]
     continue-on-error: ${{ matrix.experimental }}
     name: ${{ matrix.smalltalk }}
